@@ -9,6 +9,41 @@
 
 body {
   background: #343541;
+  /*background-image:url('./assets/reteneurale.png');
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
+
+.imageBackGround{
+  background-image:url('./assets/reteneurale.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: sticky;
+}
+.textarea {
+  resize: none;
+}
+
+@media only screen and (max-width: 1079px) {
+  .chat_container{
+    height: 90vh;
+  }
+}
+
+
+.backgroundimage{
+  background-image:'./src/assets/reteneurale.png';
+}
+
+.textBottom {
+  bottom: 1rem;
+  width: 100%;
+}
+
+.wrapper{
+  background: #343541;
+  margin-top: 1rem;
 }
 
 #app {
@@ -37,6 +72,7 @@ body {
 
   padding-bottom: 20px;
   scroll-behavior: smooth;
+  height: 90vh;
 }
 
 /* hides scrollbar */
