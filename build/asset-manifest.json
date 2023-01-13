@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chatbot/static/css/main.58ba606a.css",
+    "main.js": "/chatbot/static/js/main.ecdbdbb8.js",
+    "static/js/787.8fb4aeac.chunk.js": "/chatbot/static/js/787.8fb4aeac.chunk.js",
+    "static/media/reteneurale.png": "/chatbot/static/media/reteneurale.be17cfbc36d68c2f625f.png",
+    "static/media/logo.svg": "/chatbot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bot.svg": "/chatbot/static/media/bot.5c3674ddaad72b149fb670df373ba92b.svg",
+    "index.html": "/chatbot/index.html",
+    "static/media/user.svg": "/chatbot/static/media/user.97eb91c07eec18b2a81bbf29612648e8.svg",
+    "static/media/send.svg": "/chatbot/static/media/send.dbced668c2a09d94029f856ecb325c14.svg",
+    "main.58ba606a.css.map": "/chatbot/static/css/main.58ba606a.css.map",
+    "main.ecdbdbb8.js.map": "/chatbot/static/js/main.ecdbdbb8.js.map",
+    "787.8fb4aeac.chunk.js.map": "/chatbot/static/js/787.8fb4aeac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ba606a.css",
+    "static/js/main.ecdbdbb8.js"
+  ]
+}
